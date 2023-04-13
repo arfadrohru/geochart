@@ -1,5 +1,11 @@
 {
 "type": "Topology",
+ "bbox": [
+95.01270592500012,
+-10.999281507999868,
+95.77847,
+59.352561
+],
 "objects": {
 "idn": {
 "type": "GeometryCollection",
